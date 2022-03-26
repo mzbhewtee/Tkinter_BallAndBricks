@@ -1,6 +1,6 @@
-# Programming-1_Summative-Assignment_Week-13_2021
 
-## Project Title: Ball and Bricks
+
+# Project Title: Ball and Bricks
 
 ### The Ball and Bricks game is a simple Brick breaker game in which there is a ball that bounces of a platform to break a brick wall and the player has to keep the ball going by making sure the board is always there to bounce off the ball back.
 The game have three levels of difficulty, Beginner, Intermediate and  Advanced
