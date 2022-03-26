@@ -37,5 +37,5 @@ Although exceptions and possible errors have been handled, to avoid this kindly 
 ![summ4](https://user-images.githubusercontent.com/86835129/145509002-9e4eae4b-4a1b-4734-886e-472cce4d1baa.png)
 
 ### Authors
-- Beauty Ikudehinbu b.ikudehinb@alustudent.com
+- Beauty Ikudehinbu abimbolaikus@gmail.com
 - Kevin Onyancha k.onyancha@alustudent.com
